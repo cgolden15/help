@@ -9,4 +9,7 @@ Commits in Git are pretty simple, any time you add, remove, change or otherwise 
 <i> Don't worry about branches yet, we'll get there! </i>
   
  A Simple way to keep your changes organized just in case you have to look back, or give others an easy way to understand your changes is by simply adding a description or alternate title. While that isnt necessairy, it also helps clean things up later on when using other features.
-  
+ 
+ ![image](https://user-images.githubusercontent.com/61284764/156107503-4a0203ea-7deb-40e6-aa1d-e64bfa7d0329.png)
+|:----:|
+<i> Commits with a description appear like this!
