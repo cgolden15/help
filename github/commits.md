@@ -12,20 +12,37 @@ Commits on GitHub are pretty simple, any time you add, remove, change or otherwi
  
  ![image](https://user-images.githubusercontent.com/61284764/156107503-4a0203ea-7deb-40e6-aa1d-e64bfa7d0329.png)
  <p align = "center"> <i>- Commits with a description appear like this! </i></p>
+<br>
 
 ## Commits on GitHub Desktop
 Committing changes on github is slighly different than through the website. Using the github desktop client allows you to use your own editors, such as Visual Studio Code! I won't be going into much detail here, but if you need more help, check out the [GitHub Desktop](desktop.md) tutorial! 
 
 While editing a file in a linked repository, you can see your changes appearing in the desktop client!
 ![image](https://user-images.githubusercontent.com/61284764/156910463-f4bc12ce-ea4d-489c-9194-a537fc2c5e72.png)
+<br>
 
 When you're ready to save your changes, theres a couple extra things we have to do before comitting our changes. Firstly, on the GitHub client window, make sure your current repository and branch are correct. 
-![image](https://user-images.githubusercontent.com/61284764/156910647-6efc8026-b8b7-4cf7-9052-d0e3e1d7abd6.png)
-<p align = "center"> <i>- "Fetch origin" will update your code to match what you have saved on github!
+<p align = "center">
+ <img src="https://user-images.githubusercontent.com/61284764/156910647-6efc8026-b8b7-4cf7-9052-d0e3e1d7abd6.png">
+ <br>
+ <i>- "Fetch origin" will update your code to match what you have saved on github!</i>
+</p>
+<br>
 
 Now that we're ready to save our changes, take a look at the bottom left hand corner of your screen. You should see a blue "Commit to `your branch`" button. Before we click that, feel free to add a description or add a co-author to your commit! 
-<--- left corner ss --->
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/61284764/156911048-b47039a7-fbe3-4dc5-917b-f75de4d818cc.png">
+ <br>
+ <i>- If you edit more than one file, you'll have to create a commit name before you can proceed.</i>
+</p>
+
+<br>
 
 ## Pushing Commits on Desktop
 After you're done working and ready to back your changes up to GitHub, hit that bright blue "Push origin" button and watch the magic.
-<--- Push origin pic --->
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/61284764/156910947-e5b759be-434c-4089-81d8-cb844aaf5757.png">
+</p>
+
+<br>
+And just like that, youre now a master at Commits, pushes and pulls in discord! Happy... GitHubing?
