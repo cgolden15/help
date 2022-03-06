@@ -1,5 +1,5 @@
 # Help:
-https://goldendev.tech/help is a project I'm starting that contains(or is going to contain) a wide range of tutorials, explanations and much more! Topics will range from using GitHub, [Repl.it](https://repl.it), Discord, and much more! 
+Help is a project I'm starting that contains(or is going to contain) a wide range of tutorials, explanations and much more! Topics will range from using GitHub, [Repl.it](https://repl.it), Discord, and much more! 
 
 ### Why does this exist?
 I created this to hopefully help new & aspiring developers find reliable & up to date information on how to use applications, and much more! But also so I can stop explaining how to use github and pretty much everything else once a week.
