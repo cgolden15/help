@@ -10,6 +10,6 @@ Fork this repository, make your changes and publish a pull request which outline
 <br>
 
 ## Topics:
-- [GitHub](/help/github)
-- [Repl.it](/help/replit)
-- [Discord](/help/discord)
+- [GitHub](./github)
+- [Repl.it](./replit)
+- [Discord](./discord)
