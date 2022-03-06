@@ -14,3 +14,4 @@ Commits in Git are pretty simple, any time you add, remove, change or otherwise 
  <p align = "center"> <i>- Commits with a description appear like this! </i></p>
 
 ## Commits on GitHub Desktop
+![image](https://user-images.githubusercontent.com/61284764/156910463-f4bc12ce-ea4d-489c-9194-a537fc2c5e72.png)
