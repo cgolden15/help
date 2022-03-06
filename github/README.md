@@ -8,4 +8,4 @@ Everything you need to get started using GitHub, and more!
 
 ## To make life easier:
 1. [Webhooks](webhooks.md)
-2. 
+2. [Projects](projects.md)
