@@ -24,4 +24,8 @@ When you're ready to save your changes, theres a couple extra things we have to 
 <p align = "center"> <i>- "Fetch origin" will update your code to match what you have saved on github!
 
 Now that we're ready to save our changes, take a look at the bottom left hand corner of your screen. You should see a blue "Commit to `your branch`" button. Before we click that, feel free to add a description or add a co-author to your commit! 
+<--- left corner ss --->
 
+## Pushing Commits on Desktop
+After you're done working and ready to back your changes up to GitHub, hit that bright blue "Push origin" button and watch the magic.
+<--- Push origin pic --->
