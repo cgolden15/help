@@ -10,7 +10,7 @@ To create a heading, add one to six <kbd>#</kbd> symbols before your heading tex
 
 ![Rendered H1, H2, and H6 headings](https://docs.github.com/assets/cb-8119/images/help/writing/headings-rendered.png)
 
-When you use two or more headings, GitHub automatically generates a table of contents which you can access by clicking {% octicon "list-unordered" aria-label="The unordered list icon" %} within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section. 
+When you use two or more headings, GitHub automatically generates a table of contents which you can access by clicking the unordered list icon within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section. 
 
 ![Screenshot highlighting the table of contents icon](https://docs.github.com/assets/cb-47415/images/help/repository/headings_toc.png)
 
@@ -39,15 +39,12 @@ Text that is not a quote
 
 ![Rendered quoted text](https://docs.github.com/assets/cb-12181/images/help/writing/quoted-text-rendered.png)
 
-{% tip %}
 
 **Tip:** When viewing a conversation, you can automatically quote text in a comment by highlighting the text, then typing <kbd>R</kbd>. You can quote an entire comment by clicking {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}, then **Quote reply**. For more information about keyboard shortcuts, see "[Keyboard shortcuts](/articles/keyboard-shortcuts/)."
 
-{% endtip %}
-
 ## Quoting code
 
-You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.{% ifversion fpt or ghae or ghes > 3.1 or ghec %} You can also press the <kbd>Command</kbd>+<kbd>E</kbd> (Mac) or <kbd>Ctrl</kbd>+<kbd>E</kbd> (Windows/Linux) keyboard shortcut to insert the backticks for a code block within a line of Markdown.{% endif %}
+You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.{% ifversion fpt or ghae or ghes > 3.1 or ghec %} You can also press the <kbd>Command</kbd>+<kbd>E</kbd> (Mac) or <kbd>Ctrl</kbd>+<kbd>E</kbd> (Windows/Linux) keyboard shortcut to insert the backticks for a code block within a line of Markdown.
 
 ```markdown
 Use `git status` to list all new or modified files that haven't yet been committed.
