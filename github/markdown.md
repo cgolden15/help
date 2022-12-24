@@ -108,7 +108,7 @@ You can display an image by adding <kbd>!</kbd> and wrapping the alt text in `[ 
 {% endtip %}
 
 Here are some examples for using relative links to display an image.
-
+ 
 | Context | Relative Link |
 | ------ | -------- |
 | In a `.md` file on the same branch | `/assets/images/electrocat.png` |
